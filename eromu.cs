@@ -20,6 +20,7 @@ namespace EromuApp
                     KapacitasKW = 100;
                 }
 
+
             }
                 }
          private static int osszesEromuSzama { get; set; }
